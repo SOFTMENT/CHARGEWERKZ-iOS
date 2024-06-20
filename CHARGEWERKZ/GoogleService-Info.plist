@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>135474650733-t1krlouidgjcilrukfvmcomte0q8ojhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.135474650733-t1krlouidgjcilrukfvmcomte0q8ojhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiVv_5h9UTnIBQEt2k_BlHsf_ZjgVBfAI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>135474650733</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.softment.CHARGEWERKZ</string>
+	<key>PROJECT_ID</key>
+	<string>chargewerkz-455a1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chargewerkz-455a1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:135474650733:ios:f606c7aa0bfe6545f4a964</string>
+</dict>
+</plist>

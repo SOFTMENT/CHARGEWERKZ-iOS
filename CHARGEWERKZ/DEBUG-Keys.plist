@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STRIPE_API</key>
+	<string>pk_test_51MTrbbEcDrD6hYFKPh9PghLhTr1gHHVhpOixep0bQ3jiqCa5NGFTbR9J8vvIFuLyMCSMp8FLa18Up8EYf3r3g6by00j26UkejE</string>
+	<key>GOOGLE_PLACES_API_KEY</key>
+	<string>AIzaSyBiVv_5h9UTnIBQEt2k_BlHsf_ZjgVBfAI</string>
+</dict>
+</plist>

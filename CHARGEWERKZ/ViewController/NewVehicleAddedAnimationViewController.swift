@@ -1,0 +1,26 @@
+//
+//  NewVehicleAddedAnimationViewController.swift
+//  CHARGEWERKZ
+//
+//  Created by Vijay Rathore on 04/09/23.
+//
+
+import UIKit
+import Lottie
+
+
+class NewVehicleAddedAnimationViewController : UIViewController {
+    
+    @IBOutlet weak var mAnimation: LottieAnimationView!
+    
+    override func viewDidLoad() {
+        mAnimation.loopMode = .loop
+        mAnimation.play()
+        
+        DispatchQueue.main.asyncAfter(deadline: .now() + 3){
+            self.beRootScreen(mIdentifier: Constants.StroyBoard.homeViewController)
+        }
+        
+    }
+    
+}
